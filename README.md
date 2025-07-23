@@ -1,5 +1,6 @@
 # WebEngineeringKYAU
-UniversityProject
+# UniversityProject
+
 Mission Statement
 
 To provide an efficient, user-friendly, and accessible school management platform that simplifies academic and administrative tasks for students, teachers, and school authorities improving educational experience and transparency.
