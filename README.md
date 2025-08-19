@@ -1,4 +1,4 @@
-# 📘 **Priject_Name** -> "BidyaSetu"
+# 📘 **Project_Name** -> "BidyaSetu"
 
 > **BidyaSetu (বিদ্যা সেতু)** — *Bridge of Knowledge*. A unified school app connecting **Students, Parents, Teachers, and Admins** with attendance, classwork, results, notices, e-library, downloads, reports, and feedback.
 
